@@ -1,2 +1,1 @@
-# Sokoban
-This is the Sokoban game coded in C++ 
+Created the Sokoban game using C++ language and sfml library. Game UI was established using 2d arrays. The purpose of the game is to get a character to move the boxes into the correct spot. Once the level is completed, a notification is displayed and timer ends. Made a mistake? No worries! Just click R and it reverses the previous step.
